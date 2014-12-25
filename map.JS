@@ -15,148 +15,148 @@ var map = AmCharts.makeChart("chartdiv", {
 			value: 0
 		}, {
 			id: "US-AZ",
-			value: 5130632
+			value: 2
 		}, {
 			id: "US-AR",
-			value: 2673400
+			value: 1
 		}, {
 			id: "US-CA",
-			value: 0
+			value: 9
 		}, {
 			id: "US-CO",
-			value: 4301261
+			value: 1
 		}, {
 			id: "US-CT",
-			value: 3405565
+			value: 1
 		}, {
 			id: "US-DE",
-			value: 783600
+			value: 0
 		}, {
 			id: "US-FL",
-			value: 15982378
+			value: 4
 		}, {
 			id: "US-GA",
-			value: 8186453
+			value: 2
 		}, {
 			id: "US-HI",
-			value: 1211537
+			value: 0
 		}, {
 			id: "US-ID",
-			value: 1293953
+			value: 0
 		}, {
 			id: "US-IL",
-			value: 12419293
+			value: 1
 		}, {
 			id: "US-IN",
-			value: 6080485
+			value: 1
 		}, {
 			id: "US-IA",
-			value: 2926324
+			value: 1
 		}, {
 			id: "US-KS",
-			value: 2688418
+			value: 0
 		}, {
 			id: "US-KY",
-			value: 4041769
+			value: 0
 		}, {
 			id: "US-LA",
-			value: 4468976
+			value: 2
 		}, {
 			id: "US-ME",
-			value: 1274923
+			value: 1
 		}, {
 			id: "US-MD",
-			value: 5296486
+			value: 1
 		}, {
 			id: "US-MA",
-			value: 6349097
+			value: 2
 		}, {
 			id: "US-MI",
-			value: 9938444
+			value: 4
 		}, {
 			id: "US-MN",
-			value: 4919479
+			value: 0
 		}, {
 			id: "US-MS",
-			value: 2844658
+			value: 1
 		}, {
 			id: "US-MO",
-			value: 5595211
+			value: 2
 		}, {
 			id: "US-MT",
-			value: 902195
+			value: 0
 		}, {
 			id: "US-NE",
-			value: 1711263
+			value: 0
 		}, {
 			id: "US-NV",
-			value: 1998257
+			value: 0
 		}, {
 			id: "US-NH",
-			value: 1235786
+			value: 0
 		}, {
 			id: "US-NJ",
-			value: 8414350
+			value: 2
 		}, {
 			id: "US-NM",
-			value: 1819046
+			value: 1
 		}, {
 			id: "US-NY",
-			value: 18976457
+			value: 7
 		}, {
 			id: "US-NC",
-			value: 8049313
+			value: 2
 		}, {
 			id: "US-ND",
-			value: 642200
+			value: 0
 		}, {
 			id: "US-OH",
-			value: 11353140
+			value: 6
 		}, {
 			id: "US-OK",
-			value: 3450654
+			value: 0
 		}, {
 			id: "US-OR",
-			value: 3421399
+			value: 1
 		}, {
 			id: "US-PA",
-			value: 12281054
+			value: 3
 		}, {
 			id: "US-RI",
-			value: 1048319
+			value: 0
 		}, {
 			id: "US-SC",
-			value: 4012012
+			value: 0
 		}, {
 			id: "US-SD",
-			value: 754844
+			value: 0
 		}, {
 			id: "US-TN",
-			value: 5689283
+			value: 1
 		}, {
 			id: "US-TX",
-			value: 20851820
+			value: 8
 		}, {
 			id: "US-UT",
-			value: 2233169
+			value: 0
 		}, {
 			id: "US-VT",
-			value: 608827
+			value: 0
 		}, {
 			id: "US-VA",
-			value: 7078515
+			value: 4
 		}, {
 			id: "US-WA",
-			value: 5894121
+			value: 1
 		}, {
 			id: "US-WV",
-			value: 1808344
+			value: 0
 		}, {
 			id: "US-WI",
-			value: 5363675
+			value: 0
 		}, {
 			id: "US-WY",
-			value: 493782
+			value: 0
 		}]
 	},
 
